@@ -1,5 +1,5 @@
 // Objet représentant l'écran défilant Advertizr
-const azapub = {
+const advertizr = {
 
     /**
      * Propriétés
